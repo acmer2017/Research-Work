@@ -6,6 +6,7 @@
 - [枚举文献分类](enumeration/reference-enumeration.md)
 - [前期方向展望](enumeration/future-enumeration.md)：保留此前讨论；当前独立的位并行枚举课题以并行专题分析为准。
 - [论文 PDF 与版本清单](enumeration/papers/README-parallel.md)
+- [兄弟分支位向量联合搜索的正确性原型与实验](enumeration/experiments/README.md)
 - [下载并行专题文档及 PDF 压缩包](enumeration/parallel-enu-materials.zip?raw=true)
 
 ## Graph for RAG

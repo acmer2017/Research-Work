@@ -1,0 +1,88 @@
+{
+  "seed": 20261017,
+  "exhaustive_up_to_n": 5,
+  "cases": {
+    "exhaustive": 1099,
+    "random": 300
+  },
+  "widths": [
+    1,
+    2,
+    4,
+    8,
+    64
+  ],
+  "batched_result_comparisons": 13990,
+  "passed": true,
+  "examples": {
+    "triangle_with_leaf": {
+      "results": 2,
+      "output_vertex_ids": 5,
+      "serial_states": 5,
+      "bit_sliced": {
+        "physical_states": 5,
+        "logical_states": 5,
+        "batches": 3,
+        "packed_children": 4,
+        "merged_states": 0,
+        "max_prefix_labels": 1
+      },
+      "factored": {
+        "physical_states": 5,
+        "logical_states": 5,
+        "batches": 3,
+        "packed_children": 4,
+        "merged_states": 0,
+        "max_prefix_labels": 1
+      }
+    },
+    "complete_graph_8": {
+      "results": 1,
+      "output_vertex_ids": 8,
+      "serial_states": 9,
+      "bit_sliced": {
+        "physical_states": 9,
+        "logical_states": 9,
+        "batches": 8,
+        "packed_children": 8,
+        "merged_states": 0,
+        "max_prefix_labels": 1
+      },
+      "factored": {
+        "physical_states": 9,
+        "logical_states": 9,
+        "batches": 8,
+        "packed_children": 8,
+        "merged_states": 0,
+        "max_prefix_labels": 1
+      }
+    },
+    "complete_3_partite_3_3_3": {
+      "results": 27,
+      "output_vertex_ids": 81,
+      "serial_states": 40,
+      "bit_sliced": {
+        "physical_states": 40,
+        "logical_states": 40,
+        "batches": 3,
+        "packed_children": 39,
+        "merged_states": 0,
+        "max_prefix_labels": 1
+      },
+      "factored": {
+        "physical_states": 4,
+        "logical_states": 40,
+        "batches": 3,
+        "packed_children": 9,
+        "merged_states": 6,
+        "max_prefix_labels": 27
+      }
+    }
+  },
+  "limitations": [
+    "Semantic validation only; no speedup measurements.",
+    "Explicit prefix lists may grow with output size.",
+    "No concurrency, SIMD intrinsic or GPU implementation.",
+    "No approximate-neighborhood grouping or work/span bound."
+  ]
+}
