@@ -1,0 +1,101 @@
+[
+  {
+    "file": "Shared-memory-Parallel-Maximal-Clique-Enumeration-from-Static-and-Dynamic-Graphs.pdf",
+    "title": "Shared-Memory Parallel Maximal Clique Enumeration from Static and Dynamic Graphs",
+    "url": "https://arxiv.org/abs/2001.11433v1",
+    "version": "TOPC 2020；所读 arXiv v1，2020-01-30",
+    "pages": 28,
+    "bytes": 4958557,
+    "sha256": "30201997d1758e8734bf75706e31674f5fcaf6d5f9cb6070a5f1de7dd5e5ab7d"
+  },
+  {
+    "file": "Efficient-Enumeration-of-Large-Maximal-k-Plexes.pdf",
+    "title": "Efficient Enumeration of Large Maximal k-Plexes",
+    "url": "https://arxiv.org/abs/2402.13008v3",
+    "version": "EDBT 2025；所读 arXiv v3，2024-06-10",
+    "pages": 18,
+    "bytes": 3074803,
+    "sha256": "26ab11aed938b44f39f5b648f31cd5bb0caff95bd070c05f80f9d4627054a68a"
+  },
+  {
+    "file": "Scalable-Mining-of-Maximal-Quasi-Cliques-QuickPlus.pdf",
+    "title": "Scalable Mining of Maximal Quasi-Cliques: An Algorithm-System Codesign Approach",
+    "url": "https://arxiv.org/abs/2005.00081v8",
+    "version": "所读 arXiv v8，2021-05-10；不以 PDF 未填模板推定正式卷期",
+    "pages": 23,
+    "bytes": 3069454,
+    "sha256": "ffd83638f0bf0663c87ee2d70b136bfaa1654fd0535368926b92f886287e80cf"
+  },
+  {
+    "file": "Parallelizing-Maximal-Clique-Enumeration-on-GPUs.pdf",
+    "title": "Parallelizing Maximal Clique Enumeration on GPUs",
+    "url": "https://arxiv.org/abs/2212.01473",
+    "version": "PACT 2023；本地作者版",
+    "pages": 14,
+    "bytes": 1451900,
+    "sha256": "593f52174a254a6cde71bc8a21a900106fd340b2ddddd58662e146c801c270c3"
+  },
+  {
+    "file": "Accelerating-Maximal-Biclique-Enumeration-on-GPUs-cuMBE.pdf",
+    "title": "Accelerating Maximal Biclique Enumeration on GPUs",
+    "url": "https://arxiv.org/abs/2401.05039v2",
+    "version": "所读 arXiv v2，2025-05-22",
+    "pages": 12,
+    "bytes": 1138826,
+    "sha256": "43fb53f3413f967975834cd5d8bbecaa34de924f07a67a458f92dea62f376b02"
+  },
+  {
+    "file": "Fast-Parallel-Algorithms-for-Cycle-Enumeration.pdf",
+    "title": "Fast Parallel Algorithms for Enumeration of Simple, Temporal, and Hop-Constrained Cycles",
+    "url": "https://arxiv.org/abs/2301.01068",
+    "version": "TOPC 2023 扩展稿",
+    "pages": 34,
+    "bytes": 2819950,
+    "sha256": "8204e08a6edcde76d690441adb375f5b0238a98f25dab1d649cbae2e2ea48932"
+  },
+  {
+    "file": "Shared-Memory-Parallel-Subgraph-Enumeration.pdf",
+    "title": "Shared Memory Parallel Subgraph Enumeration",
+    "url": "https://arxiv.org/abs/1705.09358",
+    "version": "IPDPSW 2017；本地作者稿内文日期 2018-10-08",
+    "pages": 18,
+    "bytes": 729527,
+    "sha256": "9bf672453ab17d421fb230c8a0653460aa949d52f281b753a7089dbc35eab165"
+  },
+  {
+    "file": "Efficient-and-Scalable-Graph-Pattern-Mining-on-GPUs-G2Miner.pdf",
+    "title": "Efficient and Scalable Graph Pattern Mining on GPUs",
+    "url": "https://arxiv.org/abs/2112.09761v3",
+    "version": "所读 arXiv v3，2022-07-27",
+    "pages": 21,
+    "bytes": 1269559,
+    "sha256": "31987da1294eea705bd7a969cb745fd67c049958b3097562dbfb7676c0b34f68"
+  },
+  {
+    "file": "Pangolin.pdf",
+    "title": "Pangolin: An Efficient and Flexible Graph Pattern Mining System on CPU and GPU",
+    "url": "https://arxiv.org/abs/1911.06969",
+    "version": "PVLDB 13(8)，2020；本地作者版",
+    "pages": 16,
+    "bytes": 1380571,
+    "sha256": "6cc44e80b6b1049eebe78a781d57b391fd49b6df6e2f6c839e5955ac2b9f0922"
+  },
+  {
+    "file": "G-thinker-Early-Author-Version.pdf",
+    "title": "G-thinker: Big Graph Mining Made Easier and Faster",
+    "url": "https://arxiv.org/abs/1709.03110v1",
+    "version": "所读 2017 v1；相关 ICDE 2020 正式文并非同版本",
+    "pages": 13,
+    "bytes": 436858,
+    "sha256": "b685cc5aa32534cb9263e32130f750149ee9f6cc1cb3a6b218a67d49f7cc61f7"
+  },
+  {
+    "file": "Efficiently-Enumerating-All-Maximal-Cliques-with-Bit-Parallelism.pdf",
+    "title": "Efficiently Enumerating All Maximal Cliques with Bit-Parallelism",
+    "url": "https://arxiv.org/abs/1801.00202v1",
+    "version": "COR 92:37–46，2018；作者稿日期 2017-12-30",
+    "pages": 15,
+    "bytes": 448795,
+    "sha256": "2b1496328c4213c7a5945874941ebe16c2cb35aa5d7de648ae4539222f097f3c"
+  }
+]
